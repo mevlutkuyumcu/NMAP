@@ -1,0 +1,20 @@
+https://hackertarget.com/7-nmap-nse-scripts-recon/  
+---NSE Script Nmap için 7 farklı script---
+
+DNS brute force
+IP de ki ana bilgisayarları bulma 
+Traceroute Coğrafi Konum
+HTTP yeniden Yapılandırma
+Microsoft Windows Network Recon
+----------------------------------------------------
+
+https://nmap.org/book/man-bypass-firewalls-ids.html
+
+Güvenlik Duvarı / Adres Sahteciliği 
+ 
+Nmap Döküman
+
+------------------------------------------------------
+
+
+
